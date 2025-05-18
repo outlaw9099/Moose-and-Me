@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Moose & Me Baking Company - Ad Campaign</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #fff8f2;
+      color: #333;
+    }
+    header, section, footer {
+      padding: 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    header {
+      background-color: #f7d7c4;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    header p {
+      font-size: 1.2em;
+      color: #6b4c3b;
+    }
+    h2 {
+      color: #a0522d;
+    }
+    .media-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+    .media-grid img {
+      width: 100%;
+      border-radius: 8px;
+    }
+    footer {
+      background-color: #f7d7c4;
+      text-align: center;
+      font-size: 0.9em;
+      color: #6b4c3b;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Moose & Me Baking Co.</h1>
+    <p>Ad Campaign Proposal: "Made With Heart, Shared With Joy"</p>
+  </header>
+
+  <section>
+    <h2>Client Proposal</h2>
+    <p>We created this campaign for Moose & Me to increase brand awareness, seasonal sales, and overall visibility through heartfelt and visually connected ads across multiple platforms. Our goal is to share the love and joy that Moose & Me puts into every baked treat with families and gift-givers in the community.</p>
+  </section>
+
+  <section>
+    <h2>Campaign Elements</h2>
+    <ul>
+      <li><strong>Slogan:</strong> "Made With Heart, Shared With Joy"</li>
+      <li><strong>Colors:</strong> Warm pastels, cream, and brown tones</li>
+      <li><strong>Typography:</strong> Script-style headers and clean body text</li>
+      <li><strong>Tone:</strong> Nostalgic, community-focused, heartfelt</li>
+      <li><strong>Visuals:</strong> Real product photography, happy customer moments</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Target Market</h2>
+    <p><strong>Primary:</strong> Women 25–55, local moms, event organizers, and gift-givers<br />
+       <strong>Secondary:</strong> Young adults 18–30, social media users, holiday shoppers</p>
+  </section>
+
+  <section>
+    <h2>Media Strategy</h2>
+    <ul>
+      <li>Instagram & Facebook Ads</li>
+      <li>In-store Posters and Flyers</li>
+      <li>Local Print Publications</li>
+  
+    </ul>
+  </section>
+
+  <section>
+    <h2>Ad Previews</h2>
+    <div class="media-grid">
+      <img src="https://via.placeholder.com/300x200.png?text=Ad+1+-+Holiday+Cookies" alt="Ad 1">
+      <img src="https://via.placeholder.com/300x200.png?text=Ad+2+-+Event+Trays" alt="Ad 2">
+      <img src="https://via.placeholder.com/300x200.png?text=Ad+3+-+Custom+Gift+Boxes" alt="Ad 3">
+    </div>
+  </section>
+
+  <section>
+    <h2>Why This Campaign Works</h2>
+    <p>This campaign connects all advertising with a shared emotional message and a cozy, consistent visual identity. Each ad targets customers where they shop, scroll, or stop, ensuring Moose & Me stays top-of-mind during every season and celebration.</p>
+  </section>
+
+  <footer>
+    <p>Created by Mustafa Barday | For Mr. Justin Elder | Moose & Me Baking Company | 2025</p>
+  </footer>
+</body>
+</html>
